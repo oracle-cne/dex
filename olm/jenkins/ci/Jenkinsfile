@@ -1,4 +1,5 @@
-@Library('olcne-pipeline') _
+@Library('olcne-pipeline@feature/mgianata-default-pod') _
+@Library('pipeline-shared@feature/mgianata-default-pod')
 import com.oracle.olcne.pipeline.BranchPattern
 
 String version = '2.44.0'
