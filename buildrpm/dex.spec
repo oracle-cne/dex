@@ -22,12 +22,14 @@ Source:         %{name}-%{version}.tar.bz2
 BuildRequires:  golang >= 1.21
 BuildRequires:	make
 BuildRequires:  glibc-static
+Patch0:         Makefile.patch
 
 %description
 Dex is an identity service that uses OpenID Connect to drive authentication for other apps.
 
 %prep
 %setup -q -n %{name}-%{version}
+%patch0
 
 %build
 make release-binary
