@@ -1186,6 +1186,40 @@ github.com/jonboulle/clockwork
 SPDX:Apache-2.0
 
 == Copyright
+(no copyright notices found)
+
+--------------------------------- (separator) ----------------------------------
+
+== Dependency
+github.com/kylelemons/godebug
+
+== License Type
+SPDX:Apache-2.0
+
+== Copyright
+Copyright 2013 Google Inc.  All rights reserved.
+
+--------------------------------- (separator) ----------------------------------
+
+== Dependency
+github.com/lib/pq
+
+== License Type
+SPDX:MIT
+
+== Copyright
+Copyright (c) 2011-2013, 'pq' Contributors. Portions Copyright (c) 2011 Blake Mizerany
+Copyright (c) 2014 - Gustavo Niemeyer <gustavo@niemeyer.net>
+
+--------------------------------- (separator) ----------------------------------
+
+== Dependency
+github.com/mattermost/xml-roundtrip-validator
+
+== License Type
+SPDX:Apache-2.0
+
+== Copyright
 Copyright 2014 Brian Waldon bcwaldon@gmail.com
 Copyright 2014 Jonathan Boulle jonathanboulle@gmail.com
 Copyright 2015 Benoit Sigoure tsunanet@gmail.com
@@ -1221,40 +1255,6 @@ Copyright 2023 Oleksandr Redko Oleksandr_Redko@epam.com
 Copyright 2023 Pedro Kaj Kjellerup Nacht pnacht@google.com
 Copyright 2024 Darren Jacques dpjacques@google.com
 Copyright 2024 GitHub noreply@github.com
-
---------------------------------- (separator) ----------------------------------
-
-== Dependency
-github.com/kylelemons/godebug
-
-== License Type
-SPDX:Apache-2.0
-
-== Copyright
-Copyright 2013 Google Inc.  All rights reserved.
-
---------------------------------- (separator) ----------------------------------
-
-== Dependency
-github.com/lib/pq
-
-== License Type
-SPDX:MIT
-
-== Copyright
-Copyright (c) 2011-2013, 'pq' Contributors. Portions Copyright (c) 2011 Blake Mizerany
-Copyright (c) 2014 - Gustavo Niemeyer <gustavo@niemeyer.net>
-
---------------------------------- (separator) ----------------------------------
-
-== Dependency
-github.com/mattermost/xml-roundtrip-validator
-
-== License Type
-SPDX:Apache-2.0
-
-== Copyright
-(no copyright notices found)
 
 --------------------------------- (separator) ----------------------------------
 
@@ -1578,9 +1578,7 @@ github.com/russellhaering/goxmldsig
 SPDX:Apache-2.0
 
 == Copyright
-Copyright 2020 GitHub noreply@github.com
-Copyright 2020 Juho Nurminen juho.nurminen@mattermost.com
-Copyright 2020 Juho Nurminen juhonurm@gmail.com
+(no copyright notices found)
 
 --------------------------------- (separator) ----------------------------------
 
@@ -1769,7 +1767,45 @@ go.opentelemetry.io/auto/sdk
 SPDX:Apache-2.0
 
 == Copyright
-(no copyright notices found)
+Copyright 2016 Andrew Stuart andrew.stuart2@gmail.com
+Copyright 2016 GitHub noreply@github.com
+Copyright 2016 Jeremy Archer open-source@fatlotus.com
+Copyright 2016 Phoebe Simon phoebesimon@gmail.com
+Copyright 2016 Russell Haering russellhaering@gmail.com
+Copyright 2016 phoebesimon phoebesimon@hotmail.com
+Copyright 2017 Andrew Pilloud andrewpilloud@igneoussystems.com
+Copyright 2017 Danikarik baitursynov92@gmail.com
+Copyright 2017 GitHub noreply@github.com
+Copyright 2017 Holger Koser holger.koser@sap.com
+Copyright 2017 Paul Fraley paul@skyportsystems.com
+Copyright 2017 Phu Kieu pkieu@jpl.nasa.gov
+Copyright 2017 Russell Haering russellhaering@gmail.com
+Copyright 2017 Russell Jones russell.valerius.jones@gmail.com
+Copyright 2018 Ayke van Laethem aykevanlaethem@gmail.com
+Copyright 2018 GitHub noreply@github.com
+Copyright 2018 Otto Bretz otto.bretz@gmail.com
+Copyright 2018 Russell Haering russellhaering@gmail.com
+Copyright 2020 GitHub noreply@github.com
+Copyright 2020 Mark Sagi-Kazar mark.sagikazar@gmail.com
+Copyright 2020 Patrick Boyd pboyd04@gmail.com
+Copyright 2020 Paul Querna paul.querna@okta.com
+Copyright 2020 Russell Haering russell.haering@okta.com
+Copyright 2021 GitHub noreply@github.com
+Copyright 2021 Russell Haering russellhaering@gmail.com
+Copyright 2021 Toby Bristow toby@ava.uk
+Copyright 2021 Tom Hanson tom@aporcupine.com
+Copyright 2022 Elwin Tamminga e.tamminga@ultraware.nl
+Copyright 2022 GitHub noreply@github.com
+Copyright 2022 Juho Nurminen juho.nurminen@mattermost.com
+Copyright 2022 karlovskiy yexella@gmail.com
+Copyright 2023 Adam Shannon adamkshannon@gmail.com
+Copyright 2023 GitHub noreply@github.com
+Copyright 2023 Mike Wilson michael.wilson@goteleport.com
+Copyright 2023 Russell Haering russell@edgebit.io
+Copyright 2023 Russell Haering russellhaering@gmail.com
+Copyright 2023 rowland rowland@moov.io
+Copyright 2024 GitHub noreply@github.com
+Copyright 2025 Russell Haering russellhaering@gmail.com
 
 --------------------------------- (separator) ----------------------------------
 
@@ -1780,58 +1816,7 @@ go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp
 SPDX:Apache-2.0
 
 == Copyright
-Copyright (C) 1991, 1999 Free Software Foundation, Inc.
-Copyright (C) 2013 Blake Mizerany
-Copyright (C) 2014-2019, Matt Butcher and Matt Farina
-Copyright (c) 2006-2010 Kirill Simonov
-Copyright (c) 2006-2011 Kirill Simonov
-Copyright (c) 2009 The Go Authors. All rights reserved.
-Copyright (c) 2009,2014 Google Inc. All rights reserved.
-Copyright (c) 2011, Open Knowledge Foundation Ltd.
-Copyright (c) 2011-2019 Canonical Ltd
-Copyright (c) 2012 Péter Surányi. Portions Copyright (c) 2009 The Go
-Copyright (c) 2012 The Go Authors. All rights reserved.
-Copyright (c) 2012,2013 Ernest Micklei
-Copyright (c) 2012-2016 Dave Collins <dave@davec.name>
-Copyright (c) 2013 The Go Authors. All rights reserved.
-Copyright (c) 2013, The GoGo Authors. All rights reserved.
-Copyright (c) 2014 Cenk Altı
-Copyright (c) 2014 Sam Ghods
-Copyright (c) 2014, Evan Phoenix
-Copyright (c) 2015 The Libbpf Authors. All rights reserved.
-Copyright (c) 2015, Dave Cheney <dave@cheney.net>
-Copyright (c) 2015, Gengo, Inc.
-Copyright (c) 2016 Caleb Spare
-Copyright (c) 2016 Mail.Ru Group
-Copyright (c) 2016 json-iterator
-Copyright (c) 2017 Nathan Sweet
-Copyright (c) 2017 The Go Authors. All rights reserved.
-Copyright (c) 2017-2021 Uber Technologies, Inc.
-Copyright (c) 2018 The Go Authors. All rights reserved.
-Copyright (c) 2018, 2019 Cloudflare
-Copyright (c) 2019 Authors of Cilium
-Copyright (c) 2019 Josh Bleecher Snyder
-Copyright (c) 2019 Montgomery Edwards⁴⁴⁸ and Faye Amacker
-Copyright (c) 2019-present Faye Amacker
-Copyright (c) 2020 Bruno Scheufler
-Copyright (c) 2020 The Go Authors. All rights reserved.
-Copyright 2009 The Go Authors.
-Copyright 2010 The Go Authors
-Copyright 2010 The Go Authors. All rights reserved.
-Copyright 2011-2016 Canonical Ltd.
-Copyright 2012-2015 The Prometheus Authors
-Copyright 2013-2015 Blake Mizerany, Björn Rabenstein
-Copyright 2014 The gofuzz Authors
-Copyright 2014 gRPC authors.
-Copyright 2014-2015 Stripe, Inc.
-Copyright 2014-2015 The Prometheus Authors
-Copyright 2015 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright 2015 The Go Authors.
-Copyright 2015 The Prometheus Authors
-Copyright 2023 The Go Authors. All rights reserved.
-Copyright 2025 The Kubernetes Authors
-Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
-Copyright The OpenTelemetry Authors
+(no copyright notices found)
 
 --------------------------------- (separator) ----------------------------------
 
