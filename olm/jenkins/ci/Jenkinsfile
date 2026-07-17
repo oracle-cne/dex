@@ -1,0 +1,14 @@
+@Library('olcne-pipeline') _
+import com.oracle.olcne.pipeline.BranchPattern
+
+String version = '2.45.1'
+String imgTag  = "v" + version
+
+olcnePipeline(
+        branchPattern: new BranchPattern(master: "oracle/release/" + version, feature: '(?!^release/.*$)(^.*$)'),
+        containers: [('container-registry.oracle.com/olcne/dex:' + imgTag): 'olcne/dex:' + imgTag],
+        platforms: ['ol9'],
+        architectures: ['x86_64', 'aarch64'],
+        publishImage: false,
+        yumOL9Repos: ['ol9_codeready_builder']
+)
